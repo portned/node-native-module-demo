@@ -1,4 +1,4 @@
-# Navtive module demos for Node.js
+# Native module demos for Node.js
 Small guide demo for beginners to write node native modules
 
 # Demo list

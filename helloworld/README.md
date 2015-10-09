@@ -1,6 +1,3 @@
-# Navtive module demos for Node.js
-Small guide demo for beginners to write node native modules
-
 # How to run
 Make sure switch your node version to 0.10.33
 
