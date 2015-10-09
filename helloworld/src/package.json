@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "config": "node-gyp configure",
+    "build": "node-gyp build",
+    "exe": "node hello.js" 
+  },
+  "author": "lukywong@gmail.com",
+  "license": "MIT"
+}
