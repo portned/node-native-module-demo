@@ -8,19 +8,19 @@ $ nvm use 0.10.33
 Generate the project build files, for more command, please refer [node-gyp](https://github.com/nodejs/node-gyp).
 
 ``` bash
-$ node-gyp configure
+$ npm run config
 ```
 
 Build the project
 
 ``` bash
-$ node-gyp build
+$ npm run build
 ```
 
 Run the native moudle by nodejs
 
 ``` bash
-$ node hello.js
+$ npm run exe
 ```
 
 # License
