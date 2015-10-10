@@ -3,13 +3,10 @@
     {
       'target_name': 'hello',
       'sources': [
-        './hello.cc'
+        './hello.cc',
+        './addon.cc'
       ],
-      'dependencies': [
-      ],
-      'include_dirs': [
-        "<!(node -e \"require('nan')\")"
-      ]
+      'include_dirs': [ "<!(node -e \"require('nan')\")" ]
     }
   ]
 }
